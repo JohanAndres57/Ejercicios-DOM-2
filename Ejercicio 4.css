@@ -1,0 +1,6 @@
+.faq-respuesta {
+display: none;
+}
+.faq-respuesta.mostrar {
+display: block;
+}
