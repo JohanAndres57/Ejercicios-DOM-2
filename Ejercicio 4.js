@@ -10,6 +10,6 @@ preguntas. forEach(function (pregunta) {
         });
     if (!yaAbierta) {
     respuestaActual.classList.add("mostrar");
-}
-});
+        }
+    });
 });
