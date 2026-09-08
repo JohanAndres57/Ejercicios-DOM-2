@@ -6,5 +6,14 @@ padding: 8px;
 .completada {
 text-decoration: line-through;
 
-color: #98a0b8;
+color: #8b29b9;
+}
+
+.boton{
+    padding: 10px;
+    border-radius: 7px;
+}
+.boton:hover {
+    transform: translateY(-2px);
+     background-color: #8b29b9;
 }
